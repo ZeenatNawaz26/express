@@ -1,0 +1,21 @@
+
+    .hero-section {
+        background: url('https://plus.unsplash.com/premium_photo-1661324478087-65b970ea07fa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
+        padding: 100px 0;
+        color: white;
+    }
+    .custom-card {
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s;
+    }
+    .custom-card:hover {
+        transform: scale(1.05);
+    }
+    .footer-section {
+        background: #007bff;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+    }
+
